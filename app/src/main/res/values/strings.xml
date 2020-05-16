@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">compraActivity</string>
+    <string name="confirm">Confirmación</string>
+    <string name="remove">Remove</string>
+    <string name="confirm_message">¿Estás seguro de borrar \'%1$s\'?</string>
+    <string name="cannotwrite">Could not write list</string>
+    <string name="cannotread">Could not read list</string>
+    <string name="clear_checked">Clear checked items</string>
+    <string name="clear_all">Limpiar todo</string>
+    <string name="confirm_clear_all">¿Estas seguro de querer borrar todos los productos?</string>
+</resources>
